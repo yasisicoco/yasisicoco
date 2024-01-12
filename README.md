@@ -3,8 +3,6 @@
 <div align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mooyoo&show_icons=true&locale=en" alt="mooyoo" /></div>
 <h3 align="center"> 🌱 I’m currently learning _ <em>SSAFY Courses<em> </h3>
 <h3 align="center"> 📫 How to reach me _ <em>yasisicoco@gmail.com<em> </h3>
-
-<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
