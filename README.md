@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jinwoo</h1>
 <h3 align="center">A passionate developer from Korea</h3>
 
-- 🌱 I’m currently learning **SSAFY Courses**
-- 📫 How to reach me **yasisicoco@gmail.com**
+<h3 align="center"> 🌱 I’m currently learning _ <em>SSAFY Courses<em> </h3>
+<h3 align="center"> 📫 How to reach me _ <em>yasisicoco@gmail.com<em> </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
