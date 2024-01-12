@@ -1,8 +1,7 @@
-### Hi there 👋 
 <h1 align="center">Hi 👋, I'm Jinwoo</h1>
 <h3 align="center">A passionate developer from Korea</h3>
 
-- 🌱 I’m currently learning **SSAFY Courses**
+<align="center">- 🌱 I’m currently learning **SSAFY Courses**
 
 - 📫 How to reach me **yasisicoco@gmail.com**
 
