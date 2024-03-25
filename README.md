@@ -24,7 +24,9 @@ Solve algorithm problem everyday (2024.1.11 ~ing)
 
 ## Who am I?
 
-Currently, I am learning software development at Samsung Software Academy. I'm majoring Industrial Design, and I am interested in both development and design. I'm studying Web-Frontend diligently with the goal of showcasing interactive 3D design works on websites, while also expanding my knowledge in backend development.
+Currently, I am learning software development at Samsung Software Academy. <br/>
+I'm majoring Industrial Design, and I am interested in both development and design. <br/>
+I'm studying Web-Frontend diligently with the goal of showcasing interactive 3D design works on websites, while also expanding my knowledge in backend development.
 <br/>
 <h3 align="left">Tech Stack</h3>
 <div style="margin: ; text-align: left;" "text-align: left;">
