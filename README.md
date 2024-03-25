@@ -43,7 +43,7 @@ I'm studying Web-Frontend diligently with the goal of showcasing interactive 3D 
 <h3 align="left">Contect Me</h3>
 <p align="left">
 mail - yasisicoco@gmail.com / yasisicoco@gmail.com <br/>
-instagram - zinnoing <br/>
+instagram - zinooing <br/>
 blog - https://designzino.tistory.com/<br/>
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyasisicoco&count_bg=%2379C83D&title_bg=%23555555&icon=react.svg&icon_color=%2314E1D6&title=hits&edge_flat=false"/></a> -->
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdesignzino.tistory.com&count_bg=%2379C83D&title_bg=%23555555&icon=svelte.svg&icon_color=%23E1142D&title=blog&edge_flat=false"/></a> -->
