@@ -30,7 +30,7 @@ There is no paradise where you run away - **GUTS**
 ## 👨‍💻Project
 2024.10 ~ 2024.11 NewBie [초보자 야구입문 플랫폼 서비스](https://github.com/Newbie-Yanolja)  
 
-2024.08 ~ 2024.10 Hello Word [영유아를 위한 단어 학습 앱]()  
+2024.08 ~ 2024.10 Hello Word [영유아를 위한 단어 학습 앱](https://github.com/yasisicoco/HelloWord)  
 
 2024.07 ~ 2024.08 DayLog [소중한 사람과의 영상통화 저장 서비스]()  
 
@@ -94,34 +94,11 @@ Solve algorithm problem everyday (2024.1.11 ~ing)
 
 <a href="https://github.com/yasisicoco"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasisicoco&layout=compact&theme=flag-india&hide_border=true" /></a> 
 
-<h3 align="center">Contect Me</h3>
+<h3 align="center">Contact Me</h3>
 <p align="center">
 mail - yasisicoco@gmail.com / yasisicoco@gmail.com <br/>
 instagram - zinooing <br/>
-blog - https://designzino.tistory.com/<br/>
-<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyasisicoco&count_bg=%2379C83D&title_bg=%23555555&icon=react.svg&icon_color=%2314E1D6&title=hits&edge_flat=false"/></a> -->
-<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdesignzino.tistory.com&count_bg=%2379C83D&title_bg=%23555555&icon=svelte.svg&icon_color=%23E1142D&title=blog&edge_flat=false"/></a> -->
+blog - https://designzino.tistory.com/ <br/>
 </p>
 
 </div>
-
-
-
-
-
-
-
-<!--
-**yasisicoco/yasisicoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
