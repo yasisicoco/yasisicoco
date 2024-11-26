@@ -28,9 +28,11 @@ There is no paradise where you run away - **GUTS**
 <div align="center">
   
 ## 👨‍💻Project
-2024.10 ~ 2024.11 NewBie [초보자 야구입문 플랫폼 서비스](https://github.com/Newbie-Yanolja)<br/>
-2024.08 ~ 2024.10 Hello Word [영유아를 위한 단어 학습 앱]()<br/>
-2024.07 ~ 2024.08 DayLog [소중한 사람과의 영상통화 저장 서비스]()<br/>
+2024.10 ~ 2024.11 NewBie [초보자 야구입문 플랫폼 서비스](https://github.com/Newbie-Yanolja)  
+
+2024.08 ~ 2024.10 Hello Word [영유아를 위한 단어 학습 앱]()  
+
+2024.07 ~ 2024.08 DayLog [소중한 사람과의 영상통화 저장 서비스]()  
 
 </div>
 
