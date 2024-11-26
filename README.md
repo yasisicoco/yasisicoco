@@ -17,9 +17,11 @@ There is no paradise where you run away - **GUTS**
   
 ## 👋 Welcome to My Github
 안녕하세요. 끊임없이 도전하는 개발자, 김진우입니다.
+<br/>
 
 ## 🎓Educations & Experiences
 2024.01 ~ 2024.12 SSAFY 11기 이수
+<br/>
 
 </div>
 
@@ -29,6 +31,7 @@ There is no paradise where you run away - **GUTS**
 2024.10 ~ 2024.11 NewBie [초보자 야구입문 플랫폼 서비스](https://github.com/Newbie-Yanolja)<br/>
 2024.08 ~ 2024.10 Hello Word [영유아를 위한 단어 학습 앱]()<br/>
 2024.07 ~ 2024.08 DayLog [소중한 사람과의 영상통화 저장 서비스]()<br/>
+
 </div>
 
 <br/>
@@ -51,8 +54,12 @@ There is no paradise where you run away - **GUTS**
         <br/>
         <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </div>
+    
 </div>
+
 <br/>
 
 <div align="center">
