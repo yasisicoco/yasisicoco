@@ -28,6 +28,8 @@ There is no paradise where you run away - **GUTS**
 <div align="center">
   
 ## 👨‍💻Project
+2025.03 [AI기반 뉴스요약 사이트](https://github.com/yasisicoco/NewsMorn)[NewsMorn](https://news-morn.vercel.app/)
+
 2024.10 ~ 2024.11 NewBie [초보자 야구입문 플랫폼 서비스](https://github.com/Newbie-Yanolja)  
 
 2024.08 ~ 2024.10 Hello Word [영유아를 위한 단어 학습 앱](https://github.com/yasisicoco/HelloWord)  
